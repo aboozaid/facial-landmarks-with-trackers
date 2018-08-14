@@ -1,0 +1,6 @@
+include ':app', ':openCVLibrary'
+include ':openCVLibrary400pre'
+include ':openCVLibrary400'
+include ':openCVLibrary400'
+include ':openCVLibrary400'
+include ':openCVLibrary400'
